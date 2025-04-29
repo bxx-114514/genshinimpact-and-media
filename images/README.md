@@ -2,4 +2,4 @@
 
 该文件夹用于存放图片。
 
-This folder is using for saving pictures.
+This folder is use for saving pictures.
