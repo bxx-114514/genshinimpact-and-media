@@ -1,6 +1,6 @@
 # 北大原神玩家开盒？名誉侵犯闹上法院，造谣者惨遭切割！【行秋Official】诉【宁一呐】事件声明
 
-bilibili [@Yishiki一式风模块](https://space.bilibili.com/643362376)
+### bilibili [@Yishiki一式风模块](https://space.bilibili.com/643362376)
 
 「『米学长』们也就只敢依仗着法律了。」
 
