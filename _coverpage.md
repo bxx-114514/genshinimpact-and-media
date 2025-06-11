@@ -5,4 +5,4 @@
 - The truly of Genshin Impact, Media and Genshin Imapct players.
 
 [GitHub](https://github.com/bxx-114514/genshinimpact-and-media)
-[开始吧 Get Started](README.md)
+[开始吧 Getting Started](README.md)
