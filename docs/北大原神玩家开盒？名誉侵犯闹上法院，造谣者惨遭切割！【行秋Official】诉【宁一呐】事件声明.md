@@ -66,4 +66,5 @@
 
 # 外部链接
 * 来源 https://www.bilibili.com/video/BV1f6D5YzEGM
+* GitHub Releases https://github.com/bxx-114514/genshinimpact-and-media/releases/tag/Videos1
 * 云盘存档 https://1drv.ms/f/c/ec6393f81c569b98/EkQBSgDNLn1Am1g-Cnhbd8gB-Hbz7zX_n8LywROjVXDkKw?e=KVVxtR
